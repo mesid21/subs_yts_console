@@ -13,4 +13,5 @@ Thats it, now if everything is done right,
 Just right click on a movie file and click on Get Subtitle from the context menu,
 the subtile (if found) will be downloaded into the movie file folder.
 
-![](subs_yts_console/contextmenu.png) ![](subs_yts_console/screen.png)
+![](subs_yts_console/contextmenu.png) 
+![](subs_yts_console/screen.png)
