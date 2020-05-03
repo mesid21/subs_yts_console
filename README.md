@@ -6,7 +6,7 @@ Usage:
 2. Put the key into 'omdbapikey' variable in Program.cs file
 3. Build the Project 
 4. Download the 'subs_yts_console/shell hook sub-downloader.reg' 
-5. Open the .reg file in text editor and replace it with build .exe file's path 
+5. Open the .reg file in text editor and replace it with 'subs_yts_console.exe' file's path 
 6. Save the .reg file and run or merge it, which will add a context menu option
 
 Thats it, now if everything is done right,
